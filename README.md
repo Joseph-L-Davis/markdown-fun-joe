@@ -2,6 +2,8 @@
 
 ## smaller than main header
 
+### h3 header babaayy
+
 _This is italic_
 
 __This is bold__
@@ -28,6 +30,6 @@ function reply(name) {
 
 | This  |Is| a|table  |   |
 |---|---|---|---|---|
-| boom  |  boom |  pow |   |   |
+| boom  |  boom |  pow | bang  |   |
 |   |   |   |   |   |
 |   |   |   |   |   |
